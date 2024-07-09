@@ -1,3 +1,11 @@
+a simple tictactoe game using react
+start of creating a folder tic-tac-toe
+run module using npx create-react-app tic-tac-toe
+then run cd tic-tac-toe
+finally implying app.js and app.css
+run npm start
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
